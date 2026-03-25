@@ -1,0 +1,12 @@
+# Default owner for entire repo
+* @ramankrishnan
+
+# Frontend files
+*.html @ramankrishnan
+*.css @ramankrishnan
+
+# GitHub config files
+.github/ @ramankrishnan
+
+# Specific file
+test.txt @ramankrishnan
